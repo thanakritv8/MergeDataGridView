@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MergeDataGridView">
+</Property><Property Name="Solution File" Value="C:\Job\Tool\MergeDataGridView\MergeDataGridView\MergeDataGridView.sln">
+</Property><Property Name="Date" Value="Thursday, October 5, 2017">
+</Property><Property Name="Time" Value="9:25 AM">
+</Property></Properties><Event ErrorLevel="0" Project="MergeDataGridView" Source="MergeDataGridView\MergeDataGridView.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="MergeDataGridView" Source="MergeDataGridView\MergeDataGridView.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="MergeDataGridView.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MergeDataGridView.sln" Description="Converted">
+</Event></UpgradeLog>
